@@ -8,7 +8,7 @@ const musiquesControllers = require('../controllers/musiques-controllers');
 
 
 
-// chemin racine : /api/musiques
+// chemin racine est  : /api/musiques
 
 router.get('/', musiquesControllers.getMusiques); 
 router.get('/:musiqueId', musiquesControllers.getMusiqueById);

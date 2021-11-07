@@ -1,6 +1,6 @@
 const mongoose = require ('mongoose');
 const { stringify } = require('uuid');
-
+/* tests */
 const Schema = mongoose.Schema;
 
 const musiqueSchema = new ({

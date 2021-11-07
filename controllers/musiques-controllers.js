@@ -4,7 +4,7 @@ let MUSIQUES = [
     {
         id : "2",
         auteur: "David Guetta ft Sia",
-        annee: 2011,
+        annee: 2021,
         titre: "Titanium",
         imageUrl: "https://images-eu.ssl-images-amazon.com/images/I/51cQ8TfyqJL._SX342_QL70_ML2_.jpg",
         commentaire:"jazz"
